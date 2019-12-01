@@ -85,11 +85,7 @@ __pycache__/
 *.so
 
 # Archi
-data/raw/
-data/processing/
-data/final/
-data/aux/
-model/processing/
+data/
 
 # Distribution / packaging
 .Python
